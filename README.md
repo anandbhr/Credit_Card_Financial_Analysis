@@ -11,6 +11,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 3. Data Processing - Used Power Query Editor to clean and transform the imported data
 4. Dax Queries - Created necessary calculated columns and measures using DAX (Data Analysis Expressions) for metrics such as total revenue, average transaction amount, and customer segmentation.
 5. Dashboard Design
+   
+&nbsp;
 
 ## Dashboard
 Credit Card Transaction Analysis
